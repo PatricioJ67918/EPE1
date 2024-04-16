@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.navbar-toogler-icon{
+    background-color: blue;
+}
+
+.navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: blue;
+}
+
+.footer{
+    color: white;
+    background-color: blue;
+}
+
+.carousel-inner img{
+    max-height: 400px;
+    object-fit: cover;
+}
